@@ -15,13 +15,11 @@
 
 - 🤝 I’m looking for help with **Laravel, Vue.JS, Php**
 
-- 👨‍💻 All of my projects are available at [abdulrehman.pk](abdulrehman.pk)
-
-- 📝 I regularly write articles on [abdulrehman25.medium.com](abdulrehman25.medium.com)
+- 👨‍💻 All of my projects are available at [akramshafiqpk.netlify.app/](akramshafiqpk.netlify.app/)
 
 - 💬 Ask me about **Laravel, PHP, Vue.JS**
 
-- 📫 How to reach me **me@abdulrehman.pk**
+- 📫 How to reach me **akramshafiq836@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/abdulrehman25/](https://www.linkedin.com/in/abdulrehman25/)
 
