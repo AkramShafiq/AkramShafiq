@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **akramshafiq836@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/abdulrehman25/](https://www.linkedin.com/in/abdulrehman25/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/muhammad-akram-740b57246/](https://www.linkedin.com/in/muhammad-akram-740b57246/)
 
 - ⚡ Fun fact **I think I am funny**
 
@@ -31,14 +31,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/abdulrehman25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="abdulrehman25" height="30" width="40" /></a>
-<a href="https://dev.to/abdulrehman25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="abdulrehman25" height="30" width="40" /></a>
+<a href="https://codepen.io/AkramShafiq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="AkramShafiq" height="30" width="40" /></a>
+<a href="https://dev.to/AkramShafiq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="AkramShafiq" height="30" width="40" /></a>
 <a href="https://twitter.com/abdulrehman25pk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abdulrehman25pk" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abdulrehman25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdulrehman25" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/10535211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="10535211" height="30" width="40" /></a>
 <a href="https://fb.com/abdulrehman25pk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdulrehman25pk" height="30" width="40" /></a>
-<a href="https://instagram.com/abdulrehman25pk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdulrehman25pk" height="30" width="40" /></a>
-<a href="https://medium.com/@abdulrehman25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@abdulrehman25" height="30" width="40" /></a>
+<!-- <a href="https://instagram.com/abdulrehman25pk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdulrehman25pk" height="30" width="40" /></a>
+<a href="https://medium.com/@abdulrehman25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@abdulrehman25" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -46,8 +46,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulrehman25&show_icons=true&locale=en&layout=compact" alt="abdulrehman25" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulrehman25&show_icons=true&locale=en" alt="abdulrehman25" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AkramShafiq&show_icons=true&locale=en" alt="AkramShafiq" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulrehman25&" alt="abdulrehman25" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulrehman25&" alt="AkramShafiq" /></p>
 
 
