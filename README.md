@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋 , I'm Akram Shafiq</h1>
 <h3 align="center">A passionate full stack developer from Pakistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulrehman25&label=Profile%20views&color=0e75b6&style=flat" alt="abdulrehman25" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AkramShafiq&label=Profile%20views&color=0e75b6&style=flat" alt="AkramShafiq" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdulrehman25" alt="abdulrehman25" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/abdulrehman25pk" target="blank"><img src="https://img.shields.io/twitter/follow/abdulrehman25pk?logo=twitter&style=for-the-badge" alt="abdulrehman25pk" /></a> </p>
+<p align="left"> <a href="https://twitter.com/AShafiq78" target="blank"><img src="https://img.shields.io/twitter/follow/AShafiq78pk?logo=twitter&style=for-the-badge" alt="AShafiq78" /></a> </p>
 
 - 🔭 I’m currently working on [Self Storage Solution: Laravel Based Multi Subscrioption System](https://storecube.at)
 - 💁‍♂️ Providing Support to Systems [WellShop.pk](https://wellshop.pk) & [TheBestCustomBoxes](http://thebestcustomboxes.com/)
@@ -33,10 +33,10 @@
 <p align="left">
 <a href="https://codepen.io/AkramShafiq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="AkramShafiq" height="30" width="40" /></a>
 <a href="https://dev.to/AkramShafiq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="AkramShafiq" height="30" width="40" /></a>
-<a href="https://twitter.com/abdulrehman25pk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abdulrehman25pk" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abdulrehman25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdulrehman25" height="30" width="40" /></a>
+<a href="https://twitter.com/AShafiq78" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="AShafiq78" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/muhammad-akram-740b57246/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdulrehman25" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/10535211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="10535211" height="30" width="40" /></a>
-<a href="https://fb.com/abdulrehman25pk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdulrehman25pk" height="30" width="40" /></a>
+<a href="https://fb.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdulrehman25pk" height="30" width="40" /></a>
 <!-- <a href="https://instagram.com/abdulrehman25pk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdulrehman25pk" height="30" width="40" /></a>
 <a href="https://medium.com/@abdulrehman25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@abdulrehman25" height="30" width="40" /></a> -->
 </p>
