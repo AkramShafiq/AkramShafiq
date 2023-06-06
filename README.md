@@ -48,6 +48,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AkramShafiq&show_icons=true&locale=en" alt="AkramShafiq" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulrehman25&" alt="AkramShafiq" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AkramShafiq&" alt="AkramShafiq" /></p>
 
 
