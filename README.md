@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 , I'm Akram Shafiq</h1>
 <h3 align="center">A passionate full stack developer from Pakistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulrehman25&label=Profile%20views&color=0e75b6&style=flat" alt="AkramShafiq" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AkramShafiq&label=Profile%20views&color=0e75b6&style=flat" alt="AkramShafiq" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdulrehman25" alt="abdulrehman25" /></a> </p>
 
