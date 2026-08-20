@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **Laravel, Vue.JS, Php**
 
-- 👨‍💻 All of my projects are available at [akramshafiqpk.netlify.app/](akramshafiqpk.netlify.app/)
+- 👨‍💻 All of my projects are available at [akramshafiq.netlify.app/](akramshafiq.netlify.app/)
 
 - 💬 Ask me about **Laravel, PHP, Vue.JS**
 
